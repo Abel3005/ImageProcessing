@@ -1,0 +1,25 @@
+﻿  Opencv_04.cpp
+c:\users\abel\source\repos\opencv_04\opencv_04\opencv_04.cpp(20): error C2065: 'CV_BGR2GRAY': undeclared identifier
+c:\users\abel\source\repos\opencv_04\opencv_04\opencv_04.cpp(21): error C2065: 'CV_BGR2GRAY': undeclared identifier
+c:\users\abel\source\repos\opencv_04\opencv_04\opencv_04.cpp(25): error C2065: 'points1': undeclared identifier
+c:\users\abel\source\repos\opencv_04\opencv_04\opencv_04.cpp(26): error C2065: 'points1': undeclared identifier
+c:\users\abel\source\repos\opencv_04\opencv_04\opencv_04.cpp(27): error C2065: 'points1': undeclared identifier
+c:\users\abel\source\repos\opencv_04\opencv_04\opencv_04.cpp(29): error C2065: 'points1': undeclared identifier
+c:\users\abel\source\repos\opencv_04\opencv_04\opencv_04.cpp(29): error C2065: 'points2': undeclared identifier
+c:\users\abel\source\repos\opencv_04\opencv_04\opencv_04.cpp(29): error C2065: 'CV_TERMCRIT_ITER': undeclared identifier
+c:\users\abel\source\repos\opencv_04\opencv_04\opencv_04.cpp(29): error C2065: 'CV_TERMCRIT_EPS': undeclared identifier
+c:\users\abel\source\repos\opencv_04\opencv_04\opencv_04.cpp(29): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'cv::TermCriteria'
+  c:\users\abel\source\repos\opencv_04\opencv_04\opencv_04.cpp(29): note: No constructor could take the source type, or constructor overload resolution was ambiguous
+c:\users\abel\source\repos\opencv_04\opencv_04\opencv_04.cpp(35): error C2065: 'points1': undeclared identifier
+c:\users\abel\source\repos\opencv_04\opencv_04\opencv_04.cpp(35): error C2660: 'cv::circle': function does not take 3 arguments
+  c:\opencv\build\include\opencv2\imgproc.hpp(4313): note: see declaration of 'cv::circle'
+c:\users\abel\source\repos\opencv_04\opencv_04\opencv_04.cpp(36): error C2065: 'points1': undeclared identifier
+c:\users\abel\source\repos\opencv_04\opencv_04\opencv_04.cpp(36): error C2065: 'points2': undeclared identifier
+c:\users\abel\source\repos\opencv_04\opencv_04\opencv_04.cpp(36): error C2660: 'cv::line': function does not take 3 arguments
+  c:\opencv\build\include\opencv2\imgproc.hpp(4251): note: see declaration of 'cv::line'
+c:\users\abel\source\repos\opencv_04\opencv_04\opencv_04.cpp(38): error C2065: 'points2': undeclared identifier
+c:\users\abel\source\repos\opencv_04\opencv_04\opencv_04.cpp(38): error C2660: 'cv::circle': function does not take 3 arguments
+  c:\opencv\build\include\opencv2\imgproc.hpp(4313): note: see declaration of 'cv::circle'
+c:\users\abel\source\repos\opencv_04\opencv_04\opencv_04.cpp(42): error C2065: 'points1': undeclared identifier
+c:\users\abel\source\repos\opencv_04\opencv_04\opencv_04.cpp(42): error C2660: 'cv::circle': function does not take 3 arguments
+  c:\opencv\build\include\opencv2\imgproc.hpp(4313): note: see declaration of 'cv::circle'

@@ -1,0 +1,6 @@
+﻿  threshold.cpp
+c:\users\abel\source\repos\opencv_02\opencv_02\threshold.cpp(8): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating code
+  All 252 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Opencv_02.vcxproj -> C:\Users\Abel\source\repos\Opencv_02\x64\Release\Opencv_02.exe

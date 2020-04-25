@@ -1,0 +1,13 @@
+﻿  Opencv_03.cpp
+c:\users\abel\source\repos\opencv_03\opencv_03\opencv_03.cpp(8): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\abel\source\repos\opencv_03\opencv_03\opencv_03.cpp(9): warning C4129: 'A': unrecognized character escape sequence
+c:\users\abel\source\repos\opencv_03\opencv_03\opencv_03.cpp(9): warning C4129: 's': unrecognized character escape sequence
+c:\users\abel\source\repos\opencv_03\opencv_03\opencv_03.cpp(9): warning C4129: 'O': unrecognized character escape sequence
+c:\users\abel\source\repos\opencv_03\opencv_03\opencv_03.cpp(9): warning C4129: 'D': unrecognized character escape sequence
+c:\users\abel\source\repos\opencv_03\opencv_03\opencv_03.cpp(9): warning C4129: 'l': unrecognized character escape sequence
+  Generating code
+  1 of 255 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Opencv_03.vcxproj -> C:\Users\Abel\source\repos\Opencv_03\x64\Release\Opencv_03.exe

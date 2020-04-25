@@ -1,0 +1,3 @@
+﻿  Harris.cpp
+c:\users\abel\source\repos\opencv_08\opencv_08\harris.cpp(8): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  OpenCV_08.vcxproj -> C:\Users\Abel\source\repos\OpenCV_08\x64\Debug\OpenCV_08.exe

@@ -1,0 +1,72 @@
+﻿  stdafx.cpp
+  MainFrm.cpp
+  MFC_Exp01.cpp
+  MFC_Exp01Doc.cpp
+c:\users\abel\source\repos\mfc_exp05\mfc_exp01\mfc_exp01doc.cpp(108): warning C4018: '<': signed/unsigned mismatch
+c:\users\abel\source\repos\mfc_exp05\mfc_exp01\mfc_exp01doc.cpp(115): warning C4018: '<': signed/unsigned mismatch
+c:\users\abel\source\repos\mfc_exp05\mfc_exp01\mfc_exp01doc.cpp(123): warning C4018: '<': signed/unsigned mismatch
+c:\users\abel\source\repos\mfc_exp05\mfc_exp01\mfc_exp01doc.cpp(124): warning C4018: '<': signed/unsigned mismatch
+c:\users\abel\source\repos\mfc_exp05\mfc_exp01\mfc_exp01doc.cpp(125): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+c:\users\abel\source\repos\mfc_exp05\mfc_exp01\mfc_exp01doc.cpp(217): warning C4018: '<': signed/unsigned mismatch
+c:\users\abel\source\repos\mfc_exp05\mfc_exp01\mfc_exp01doc.cpp(218): warning C4018: '<': signed/unsigned mismatch
+c:\users\abel\source\repos\mfc_exp05\mfc_exp01\mfc_exp01doc.cpp(242): warning C4018: '<': signed/unsigned mismatch
+c:\users\abel\source\repos\mfc_exp05\mfc_exp01\mfc_exp01doc.cpp(243): warning C4018: '<': signed/unsigned mismatch
+c:\users\abel\source\repos\mfc_exp05\mfc_exp01\mfc_exp01doc.cpp(258): warning C4018: '<': signed/unsigned mismatch
+c:\users\abel\source\repos\mfc_exp05\mfc_exp01\mfc_exp01doc.cpp(259): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\abel\source\repos\mfc_exp05\mfc_exp01\mfc_exp01doc.cpp(260): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\abel\source\repos\mfc_exp05\mfc_exp01\mfc_exp01doc.cpp(275): warning C4018: '<': signed/unsigned mismatch
+c:\users\abel\source\repos\mfc_exp05\mfc_exp01\mfc_exp01doc.cpp(277): warning C4018: '<': signed/unsigned mismatch
+c:\users\abel\source\repos\mfc_exp05\mfc_exp01\mfc_exp01doc.cpp(293): warning C4018: '<': signed/unsigned mismatch
+c:\users\abel\source\repos\mfc_exp05\mfc_exp01\mfc_exp01doc.cpp(294): warning C4018: '<': signed/unsigned mismatch
+c:\users\abel\source\repos\mfc_exp05\mfc_exp01\mfc_exp01doc.cpp(336): warning C4018: '<': signed/unsigned mismatch
+c:\users\abel\source\repos\mfc_exp05\mfc_exp01\mfc_exp01doc.cpp(338): warning C4018: '<': signed/unsigned mismatch
+c:\users\abel\source\repos\mfc_exp05\mfc_exp01\mfc_exp01doc.cpp(358): warning C4018: '<': signed/unsigned mismatch
+c:\users\abel\source\repos\mfc_exp05\mfc_exp01\mfc_exp01doc.cpp(359): warning C4018: '<': signed/unsigned mismatch
+c:\users\abel\source\repos\mfc_exp05\mfc_exp01\mfc_exp01doc.cpp(405): warning C4018: '<': signed/unsigned mismatch
+c:\users\abel\source\repos\mfc_exp05\mfc_exp01\mfc_exp01doc.cpp(407): warning C4018: '<': signed/unsigned mismatch
+c:\users\abel\source\repos\mfc_exp05\mfc_exp01\mfc_exp01doc.cpp(431): warning C4018: '<': signed/unsigned mismatch
+c:\users\abel\source\repos\mfc_exp05\mfc_exp01\mfc_exp01doc.cpp(432): warning C4018: '<': signed/unsigned mismatch
+c:\users\abel\source\repos\mfc_exp05\mfc_exp01\mfc_exp01doc.cpp(443): warning C4018: '<': signed/unsigned mismatch
+c:\users\abel\source\repos\mfc_exp05\mfc_exp01\mfc_exp01doc.cpp(447): warning C4018: '<': signed/unsigned mismatch
+c:\users\abel\source\repos\mfc_exp05\mfc_exp01\mfc_exp01doc.cpp(451): warning C4018: '<': signed/unsigned mismatch
+c:\users\abel\source\repos\mfc_exp05\mfc_exp01\mfc_exp01doc.cpp(452): warning C4018: '<': signed/unsigned mismatch
+c:\users\abel\source\repos\mfc_exp05\mfc_exp01\mfc_exp01doc.cpp(471): warning C4018: '<': signed/unsigned mismatch
+c:\users\abel\source\repos\mfc_exp05\mfc_exp01\mfc_exp01doc.cpp(472): warning C4018: '<': signed/unsigned mismatch
+c:\users\abel\source\repos\mfc_exp05\mfc_exp01\mfc_exp01doc.cpp(486): warning C4018: '<': signed/unsigned mismatch
+c:\users\abel\source\repos\mfc_exp05\mfc_exp01\mfc_exp01doc.cpp(490): warning C4018: '<': signed/unsigned mismatch
+c:\users\abel\source\repos\mfc_exp05\mfc_exp01\mfc_exp01doc.cpp(503): warning C4018: '<': signed/unsigned mismatch
+c:\users\abel\source\repos\mfc_exp05\mfc_exp01\mfc_exp01doc.cpp(504): warning C4018: '<': signed/unsigned mismatch
+c:\users\abel\source\repos\mfc_exp05\mfc_exp01\mfc_exp01doc.cpp(517): warning C4018: '<': signed/unsigned mismatch
+c:\users\abel\source\repos\mfc_exp05\mfc_exp01\mfc_exp01doc.cpp(518): warning C4018: '<': signed/unsigned mismatch
+c:\users\abel\source\repos\mfc_exp05\mfc_exp01\mfc_exp01doc.cpp(538): warning C4018: '<': signed/unsigned mismatch
+c:\users\abel\source\repos\mfc_exp05\mfc_exp01\mfc_exp01doc.cpp(540): warning C4018: '<': signed/unsigned mismatch
+c:\users\abel\source\repos\mfc_exp05\mfc_exp01\mfc_exp01doc.cpp(586): warning C4018: '<': signed/unsigned mismatch
+c:\users\abel\source\repos\mfc_exp05\mfc_exp01\mfc_exp01doc.cpp(587): warning C4018: '<': signed/unsigned mismatch
+c:\users\abel\source\repos\mfc_exp05\mfc_exp01\mfc_exp01doc.cpp(592): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\abel\source\repos\mfc_exp05\mfc_exp01\mfc_exp01doc.cpp(612): warning C4018: '<': signed/unsigned mismatch
+c:\users\abel\source\repos\mfc_exp05\mfc_exp01\mfc_exp01doc.cpp(614): warning C4018: '<': signed/unsigned mismatch
+c:\users\abel\source\repos\mfc_exp05\mfc_exp01\mfc_exp01doc.cpp(654): warning C4018: '<': signed/unsigned mismatch
+c:\users\abel\source\repos\mfc_exp05\mfc_exp01\mfc_exp01doc.cpp(656): warning C4018: '<': signed/unsigned mismatch
+c:\users\abel\source\repos\mfc_exp05\mfc_exp01\mfc_exp01doc.cpp(718): warning C4018: '<': signed/unsigned mismatch
+c:\users\abel\source\repos\mfc_exp05\mfc_exp01\mfc_exp01doc.cpp(720): warning C4018: '<': signed/unsigned mismatch
+c:\users\abel\source\repos\mfc_exp05\mfc_exp01\mfc_exp01doc.cpp(721): warning C4018: '<': signed/unsigned mismatch
+c:\users\abel\source\repos\mfc_exp05\mfc_exp01\mfc_exp01doc.cpp(727): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\abel\source\repos\mfc_exp05\mfc_exp01\mfc_exp01doc.cpp(729): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\abel\source\repos\mfc_exp05\mfc_exp01\mfc_exp01doc.cpp(769): warning C4018: '>': signed/unsigned mismatch
+c:\users\abel\source\repos\mfc_exp05\mfc_exp01\mfc_exp01doc.cpp(801): warning C4018: '<': signed/unsigned mismatch
+c:\users\abel\source\repos\mfc_exp05\mfc_exp01\mfc_exp01doc.cpp(803): warning C4018: '<': signed/unsigned mismatch
+c:\users\abel\source\repos\mfc_exp05\mfc_exp01\mfc_exp01doc.cpp(814): warning C4018: '>': signed/unsigned mismatch
+c:\users\abel\source\repos\mfc_exp05\mfc_exp01\mfc_exp01doc.cpp(848): warning C4018: '>=': signed/unsigned mismatch
+c:\users\abel\source\repos\mfc_exp05\mfc_exp01\mfc_exp01doc.cpp(855): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+c:\users\abel\source\repos\mfc_exp05\mfc_exp01\mfc_exp01doc.cpp(861): warning C4018: '<': signed/unsigned mismatch
+c:\users\abel\source\repos\mfc_exp05\mfc_exp01\mfc_exp01doc.cpp(863): warning C4018: '<': signed/unsigned mismatch
+c:\users\abel\source\repos\mfc_exp05\mfc_exp01\mfc_exp01doc.cpp(898): warning C4018: '>': signed/unsigned mismatch
+c:\users\abel\source\repos\mfc_exp05\mfc_exp01\mfc_exp01doc.cpp(910): warning C4018: '<': signed/unsigned mismatch
+c:\users\abel\source\repos\mfc_exp05\mfc_exp01\mfc_exp01doc.cpp(912): warning C4018: '<': signed/unsigned mismatch
+c:\users\abel\source\repos\mfc_exp05\mfc_exp01\mfc_exp01doc.cpp(928): warning C4018: '<': signed/unsigned mismatch
+c:\users\abel\source\repos\mfc_exp05\mfc_exp01\mfc_exp01doc.cpp(929): warning C4018: '<': signed/unsigned mismatch
+c:\users\abel\source\repos\mfc_exp05\mfc_exp01\mfc_exp01doc.cpp(938): warning C4018: '<': signed/unsigned mismatch
+c:\users\abel\source\repos\mfc_exp05\mfc_exp01\mfc_exp01doc.cpp(939): warning C4018: '<': signed/unsigned mismatch
+  MFC_Exp01View.cpp
+  Generating Code...
+  MFC_Exp01.vcxproj -> C:\Users\Abel\source\repos\MFC_Exp05\x64\Debug\MFC_Exp01.exe

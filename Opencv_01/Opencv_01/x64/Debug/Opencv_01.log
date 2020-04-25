@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  Opencv_01.cpp
+c:\users\abel\source\repos\opencv_01\opencv_01\opencv_01.cpp(7): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Opencv_01.vcxproj -> C:\Users\Abel\source\repos\Opencv_01\x64\Debug\Opencv_01.exe

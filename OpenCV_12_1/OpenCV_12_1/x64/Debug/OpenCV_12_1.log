@@ -1,0 +1,20 @@
+﻿  Source.cpp
+c:\users\abel\source\repos\opencv_12_1\opencv_12_1\source.cpp(4): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\abel\source\repos\opencv_12_1\opencv_12_1\source.cpp(27): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+c:\users\abel\source\repos\opencv_12_1\opencv_12_1\source.cpp(27): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\abel\source\repos\opencv_12_1\opencv_12_1\source.cpp(41): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\abel\source\repos\opencv_12_1\opencv_12_1\source.cpp(42): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\abel\source\repos\opencv_12_1\opencv_12_1\source.cpp(43): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+c:\users\abel\source\repos\opencv_12_1\opencv_12_1\source.cpp(43): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+Source.obj : error LNK2019: unresolved external symbol cvCreateImage referenced in function main
+Source.obj : error LNK2019: unresolved external symbol cvSet2D referenced in function main
+Source.obj : error LNK2019: unresolved external symbol cvCircle referenced in function main
+Source.obj : error LNK2019: unresolved external symbol "public: __cdecl CvBoostParams::CvBoostParams(void)" (??0CvBoostParams@@QEAA@XZ) referenced in function main
+Source.obj : error LNK2019: unresolved external symbol "public: __cdecl CvBoostParams::CvBoostParams(int,int,double,int,bool,float const *)" (??0CvBoostParams@@QEAA@HHNH_NPEBM@Z) referenced in function main
+Source.obj : error LNK2019: unresolved external symbol "public: __cdecl CvBoost::CvBoost(void)" (??0CvBoost@@QEAA@XZ) referenced in function main
+Source.obj : error LNK2019: unresolved external symbol "public: virtual __cdecl CvBoost::~CvBoost(void)" (??1CvBoost@@UEAA@XZ) referenced in function main
+Source.obj : error LNK2019: unresolved external symbol "public: virtual bool __cdecl CvBoost::train(struct CvMat const *,int,struct CvMat const *,struct CvMat const *,struct CvMat const *,struct CvMat const *,struct CvMat const *,struct CvBoostParams,bool)" (?train@CvBoost@@UEAA_NPEBUCvMat@@H00000UCvBoostParams@@_N@Z) referenced in function main
+Source.obj : error LNK2019: unresolved external symbol "public: virtual float __cdecl CvBoost::predict(struct CvMat const *,struct CvMat const *,struct CvMat *,struct CvSlice,bool,bool)const " (?predict@CvBoost@@UEBAMPEBUCvMat@@0PEAU2@UCvSlice@@_N3@Z) referenced in function main
+Source.obj : error LNK2019: unresolved external symbol cvShowImage referenced in function main
+Source.obj : error LNK2019: unresolved external symbol cvWaitKey referenced in function main
+C:\Users\Abel\source\repos\OpenCV_12_1\x64\Debug\OpenCV_12_1.exe : fatal error LNK1120: 11 unresolved externals

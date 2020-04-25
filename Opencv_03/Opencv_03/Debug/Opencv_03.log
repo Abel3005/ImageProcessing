@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  Opencv_03.cpp
+c:\users\abel\source\repos\opencv_03\opencv_03\opencv_03.cpp(8): warning C4326: return type of 'main' should be 'int' instead of 'void'
+opencv_world400d.lib(opencv_world400d.dll) : fatal error LNK1112: module machine type 'x64' conflicts with target machine type 'x86'
